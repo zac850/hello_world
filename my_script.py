@@ -5,3 +5,6 @@ z=x+x
 a=x+y
 print(z)
 print(a)
+b=z+a
+print("So much math!")
+print(b)
